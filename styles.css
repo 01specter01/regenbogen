@@ -1,0 +1,37 @@
+body {
+}
+.vw {
+    height: 4vw;
+    width: 100%;
+    background-color: red;
+}
+.aaa {
+    height: 4vw;
+    width: 100%;
+    background-color: orange;
+}
+.aab {
+    height: 4vw;
+    width: 100%;
+    background-color: yellow;
+}
+.aac {
+    height: 4vw;
+    width: 100%;
+    background-color: green;
+}
+.aba {
+    height: 4vw;
+    width: 100%;
+    background-color: lightblue;
+}
+.aca {
+    height: 4vw;
+    width: 100%;
+    background-color: blue;
+}
+.baa {
+    height: 4vw;
+    width: 100%;
+    background-color: purple;
+}
